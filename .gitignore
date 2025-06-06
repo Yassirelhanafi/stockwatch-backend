@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+src/main/resources/stockwatch-34392-firebase-adminsdk-fbsvc-8b4e6c926f.json
